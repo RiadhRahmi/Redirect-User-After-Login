@@ -1,0 +1,7 @@
+name: Redirect User After Login
+description: customize url redirect after user logged in successfully.
+package: Custom
+type: module
+core: 8.x
+
+configure: redirect_user_after_login.settings
